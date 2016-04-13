@@ -191,7 +191,7 @@
                     "type": "SQLSource"
                   },
                   "sink": {
-                    "/type": "SqlSink"
+                    "type": "SqlSink"
                   }
                 },
                 "Policy": {
