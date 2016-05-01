@@ -13,6 +13,8 @@
     "AzureSourceSqlServerUserName": { "value": "" },
     "AzureSourceSqlServerPassword": { "value": "" },
     "AzureSourceDatabaseName": { "value": "" },
+    "StartTime": { "value": "2016-04-29T10:00:00Z" },
+    "StopTime": { "value": "2016-04-29T20:00:00Z" },
     "Location": { "value": "West US" }
   }
 }
